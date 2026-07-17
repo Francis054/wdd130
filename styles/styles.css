@@ -1,3 +1,19 @@
+:root {
+    --primary-color: #005f73;
+    --secondary-color: #0a9396;
+    --accent1-color: #001219;
+    --accent2-color: #ee9b00;
+
+    --heading-font: Georgia, serif;
+    --body-font: Arial, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* Universal Selector */
 * {
     margin: 0;
